@@ -58,18 +58,10 @@
 
 </p>
 
-## 📊 GitHub Stats
+[![Yudi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yudi0312&theme=tokyo-night&hide_border=true)](https://github.com/yudi0312)
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yudi0312&show_icons=true&theme=github_dark_dimmed&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudi0312&layout=compact&theme=github_dark_dimmed&hide_border=true"/>
-</p>
 
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yudi0312&theme=github-dark-blue&hide_border=true"/>
-</p>
 
 <h3 align="center">
 
